@@ -43,7 +43,6 @@ public class Protocol1Attack {
 			e.printStackTrace();
 			System.exit(1);
 		}
-		
 	}
 
 	/**
